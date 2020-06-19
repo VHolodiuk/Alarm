@@ -1,0 +1,3 @@
+sudo usermod -a -G dialout Vholodiuk
+sudo chmod a+rw /dev/ttyUSB0
+
